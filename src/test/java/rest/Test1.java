@@ -39,7 +39,7 @@ public class Test1 {
 		.jsonPath().getInt("id");//to capture id from response
 		
 		
-		//.then()
+		//.then() its a comment
 		//.statusCode(201)
 		//.log().all();
 	}
